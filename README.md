@@ -1,2 +1,3 @@
 # Snake
- Snake in python
+# Pygame
+# Python
