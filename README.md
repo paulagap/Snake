@@ -1,3 +1,3 @@
 # Snake
-# Pygame
-# Python
+Pygame
+Python
